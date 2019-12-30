@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiceRollerApp</string>
+    <string name="button_name">ROLL</string>
+    <string name="app_name_fromMe">DiceRoller</string>
+    <string name="count">COUNT</string>
+    <string name="reset">RESET</string>
+    <string name="web_site">www.youtube.com</string>
+    <string name="count_initial_value">4</string>
+    <string name="button_label_count">COUNT</string>
+    <string name="button_label_toast">TOAST</string>
+</resources>
