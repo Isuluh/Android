@@ -51,4 +51,8 @@ public class MainActivity extends AppCompatActivity {
         randomNumber = new Random().nextInt(6) + 1;
         textView.setText("" + randomNumber);
     }
+
+    public void setZero(View view) {
+        textView.setText(""+"0");
+    }
 }
