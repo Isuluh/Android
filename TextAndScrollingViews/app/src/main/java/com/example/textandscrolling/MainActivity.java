@@ -9,15 +9,16 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-private Button addCommentButton;
-private TextView articleText;
+    private Button addCommentButton;
+    private TextView articleText;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        addCommentButton = (Button)findViewById(R.id.comment_button);
-        articleText =findViewById(R.id.articleText);
+        addCommentButton = (Button) findViewById(R.id.comment_button);
+        articleText = findViewById(R.id.articleText);
         addCommentButton.setOnClickListener(this);
     }
 
