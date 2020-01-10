@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jan 07 11:14:50 EET 2020
+0.baseType=DIRECTORY
+0.base=/home/hulusio/Desktop/android-fundamentals-apps-v2/TwoActivitiesLifecycle/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

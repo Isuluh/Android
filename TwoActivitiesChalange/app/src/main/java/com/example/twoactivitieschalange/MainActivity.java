@@ -11,7 +11,7 @@ import android.view.View;
  * Bu uygulama 3 buton ve iki activityden olusmakatadır.
  * Butonlardan herhangi birine basıldıgında 2.Activity de scrollview
  * üzerinde açılan textin hangisi olucagına karar verir.
- * 
+ *
  *
  */
 
