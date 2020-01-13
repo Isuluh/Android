@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="@drawable/divider"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:showDividers="middle"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/m_shoping_head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shopping_list"
+        android:textAllCaps="true"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mtv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shop_list"
+        android:visibility="invisible" />
+
+
+    <TextView
+        android:id="@+id/mtv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shop_list"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/mtv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shop_list"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/mtv4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shop_list"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/mtv5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shop_list"
+        android:visibility="invisible" />
+
+
+    <Button
+        android:id="@+id/m_add_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="slectShoppingElements"
+        android:text="Add"
+        android:textAllCaps="false" />
+
+
+</LinearLayout>
