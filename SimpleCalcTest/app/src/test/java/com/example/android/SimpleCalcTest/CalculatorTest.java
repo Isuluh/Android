@@ -124,12 +124,12 @@ public class CalculatorTest {
     /**
      * Tests for divide by zero; always fails, so removed.
      */
-    /*@Test
+   /* @Test
     public void divTwoNumbersZero() {
         double resultDiv = mCalculator.div(32d,0);
         assertThat(resultDiv, is(equalTo(Double.POSITIVE_INFINITY)));
-    }*/
-
+    }
+*/
 
     /**
      * Tests for simple multiplication.
