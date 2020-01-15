@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/take_picture"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -19,8 +20,8 @@
         android:id="@+id/open_website"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button_uri"
         android:onClick="openWebsite"
+        android:text="@string/button_uri"
         android:textAllCaps="false" />
 
     <EditText
@@ -34,8 +35,8 @@
         android:id="@+id/open_location"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button_loc"
         android:onClick="openLocation"
+        android:text="@string/button_loc"
         android:textAllCaps="false" />
 
     <EditText
@@ -52,4 +53,11 @@
         android:onClick="shareText"
         android:text="@string/button_share"
         android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="takePicture"
+        android:text="Take a Picture" />
 </LinearLayout>

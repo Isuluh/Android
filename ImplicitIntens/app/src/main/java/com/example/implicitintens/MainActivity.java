@@ -3,9 +3,12 @@ package com.example.implicitintens;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ShareCompat;
 
+import android.content.Context;
 import android.content.Intent;
+import android.media.AudioManager;
 import android.net.Uri;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
@@ -76,6 +79,22 @@ public class MainActivity extends AppCompatActivity {
         if (sendIntent.resolveActivity(getPackageManager()) != null) {
             startActivity(sendIntent);
         }*/
+
+
+    }
+
+    public void takePicture(View view) {
+        Intent takePicture = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+
+        if (takePicture.resolveActivity(getPackageManager()) != null) {
+            startActivity(takePicture);
+        } else {
+            Log.d("Implicit Intens", "Can't handle this !! -55 ");
+        }
+
+        /*AudioManager amanager=(AudioManager)getSystemService(Context.AUDIO_SERVICE);
+        //amanager.adjustVolume(AudioManager.ADJUST_LOWER,1);
+        amanager.adjustStreamVolume(AudioManager.STREAM_MUSIC,AudioManager.ADJUST_LOWER,2);*/
 
 
     }
