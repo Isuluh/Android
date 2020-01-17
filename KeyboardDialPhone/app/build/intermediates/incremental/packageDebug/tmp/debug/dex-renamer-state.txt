@@ -1,0 +1,4 @@
+#Fri Jan 17 15:53:46 EET 2020
+base.0=/home/hulusio/Desktop/Android/KeyboardDialPhone/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

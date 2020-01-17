@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:16:1-34:12
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:16:1-34:12
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:16:1-34:12
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:16:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b891fe2c1fee62302d1643d681cc8141/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ee4e973e9823cf9c4d0fba286788fe22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/74acebb2d16ac9da2c5578aee3fad573/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8b7ec9bcb9f7ca3e070f9bb47f2d0fb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dea6bd3b70b64cedab6591dfcd269e46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/76f025ff3318a0eb862cc707fbd7f750/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a683781c5dcce9b09270e78d4e9d6f97/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c97e156cdf3425fbcf028f40f1aa78f8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7eeed99e45dbea7b084bcebef1383346/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4b90be986d7a632bbd3e5938187727ce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6a9edc53fe251e57d8091cfabb0f1049/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:16:1-34:12
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:16:1-34:12
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:16:1-34:12
+	package
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:17:5-52
+		INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:16:1-34:12
+		INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:16:1-34:12
+		INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:19:5-32:19
+	android:supportsRtl
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android.keyboarddialphone.MainActivity
+ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:25:19-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b891fe2c1fee62302d1643d681cc8141/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b891fe2c1fee62302d1643d681cc8141/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ee4e973e9823cf9c4d0fba286788fe22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ee4e973e9823cf9c4d0fba286788fe22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/74acebb2d16ac9da2c5578aee3fad573/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/74acebb2d16ac9da2c5578aee3fad573/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8b7ec9bcb9f7ca3e070f9bb47f2d0fb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8b7ec9bcb9f7ca3e070f9bb47f2d0fb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dea6bd3b70b64cedab6591dfcd269e46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dea6bd3b70b64cedab6591dfcd269e46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/76f025ff3318a0eb862cc707fbd7f750/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/76f025ff3318a0eb862cc707fbd7f750/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a683781c5dcce9b09270e78d4e9d6f97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/hulusio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a683781c5dcce9b09270e78d4e9d6f97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c97e156cdf3425fbcf028f40f1aa78f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c97e156cdf3425fbcf028f40f1aa78f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7eeed99e45dbea7b084bcebef1383346/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7eeed99e45dbea7b084bcebef1383346/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4b90be986d7a632bbd3e5938187727ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4b90be986d7a632bbd3e5938187727ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6a9edc53fe251e57d8091cfabb0f1049/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/hulusio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6a9edc53fe251e57d8091cfabb0f1049/AndroidManifest.xml:20:5-44
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+		ADDED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hulusio/Desktop/Android/KeyboardDialPhone/app/src/main/AndroidManifest.xml
